@@ -27,3 +27,6 @@ Since SyncIV uses Liberty City Online's API, changes to the API can prevent the 
 
 ## Contributing
 If you'd like to contribute to SyncIV, please visit our Github page and fork the project. Make your changes and create a pull request. If accepted, your changes will be included in the main project.
+
+
+# This repo just contains PlayerDeath
